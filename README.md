@@ -1,12 +1,37 @@
-# React + Vite
+# 🚀 My Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive portfolio website built using **React** and **Bootstrap**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend:** React 19
+- **Styling:** Bootstrap 5
+- **Build Tool:** Vite
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+---
+
+## 💡 Features
+
+- 🧑‍💻 **About Section:** Brief intro about me and my tech stack.
+- 🛠️ **Skills Section:** Showcases technical skills including Python, Django, React, MySQL, etc.
+- 🗂️ **Projects Section:** Highlights major projects like:
+  - Portfolio Website
+  - CMS System for journal publishing
+- 📬 **Contact Section:** Simple contact form for visitors to message.
+- Add Sections according to need
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/my-portfolio.git
+cd my-portfolio or Projectname
+npm install
+npm run dev
